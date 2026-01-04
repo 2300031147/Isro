@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-socketio
+pyserial
+numpy
+# Note: rclpy is expected to be present in the environment (e.g. sourced ROS 2)
